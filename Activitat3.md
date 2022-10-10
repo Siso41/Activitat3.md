@@ -8,6 +8,8 @@
 
 --foto--
 
+***3.2.-***  A Owncloud podem veure que hi ha una serie de carpetes per defecte, mostra la ruta real a les tres carpetes dins de la teva MV.
+
 
 #### ***3.3.*** - Al directori Learn more about owncloud hi ha informació en forma de fitxers pdf. Consulta'ls i respon aquestes preguntes:
 
@@ -24,4 +26,16 @@
 
 ***RESPOSTA***
 
+### ***3.4.-*** Mostra els següents canvis de paràmetres d'usuari:
+
+- Posa't una imatge d'usuari.
+- Afegeix el teu mail de l'Institut.
+- Canvia l'idioma a català.
+- Mostra la versió d'Owncloud instal·lada.
+
+***RESPOSTA***
+
 - a) 
+
+
+
