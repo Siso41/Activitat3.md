@@ -29,16 +29,18 @@
 - e) Llicència comercial per als mòduls principal y Enterprise.
 - h) No conté la Llicència comercial per als mòduls principal y Enterprise.
 - j) Sí.
+- l) Sí, es diu ClamAV.
 ### ***3.4.-*** Mostra els següents canvis de paràmetres d'usuari:
 
-- Posa't una imatge d'usuari.
-- Afegeix el teu mail de l'Institut.
-- Canvia l'idioma a català.
-- Mostra la versió d'Owncloud instal·lada.
+- a) Posa't una imatge d'usuari.
+- b) Afegeix el teu mail de l'Institut.
+- c) Canvia l'idioma a català.
+- d) Mostra la versió d'Owncloud instal·lada.
 
 ***RESPOSTA***
 
-- a) 
+- a)
+![](Selecció_079.png)
 
 
 
