@@ -26,6 +26,8 @@
 
 ***RESPOSTA***
 
+- e) Llicència comercial per als mòduls principal y Enterprise.
+
 ### ***3.4.-*** Mostra els següents canvis de paràmetres d'usuari:
 
 - Posa't una imatge d'usuari.
