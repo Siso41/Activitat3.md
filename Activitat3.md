@@ -27,7 +27,8 @@
 ***RESPOSTA***
 
 - e) Llicència comercial per als mòduls principal y Enterprise.
-
+- h) No conté la Llicència comercial per als mòduls principal y Enterprise.
+- j) Sí.
 ### ***3.4.-*** Mostra els següents canvis de paràmetres d'usuari:
 
 - Posa't una imatge d'usuari.
