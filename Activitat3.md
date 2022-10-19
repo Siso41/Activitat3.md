@@ -39,8 +39,10 @@
 
 ***RESPOSTA***
 
-- a)
-![](Selecció_079.png)
+- a,b,c)
+![](Selecció_021.png)
+- d)
+![](Selecció_022.png)
 
 
 
