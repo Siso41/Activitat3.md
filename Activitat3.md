@@ -4,7 +4,7 @@
 #### ***3.1-*** Llista els Virtual Hosts d'Apache per tal de veure si owncloud.XYZ.com està habilitat amb la comanda:
 `apache2ctl -S`
 
-***RESPOSTA***
+![](Selecció_164.png)
 
 --foto--
 
@@ -43,6 +43,5 @@
 ![](Selecció_021.png)
 - d)
 ![](Selecció_022.png)
-
 
 
