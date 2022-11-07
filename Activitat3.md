@@ -27,9 +27,15 @@
 
 ***RESPOSTA***
 
+- a) Encryption in transit, Encryption at Rest i End-to-End Encryption. 
+- b) 
+- c) Perquè es fàcil d'utilitzar i molt eficient a l'hora de mantindre els arxius segurs, i sobretot per a les empreses, això és un problema, perquè l'emmagatzematge sensible de documents i dades d'usuari aporta una sèrie de riscos, amenaces i responsabilitats. Amb ownCloud, el vostre personal aconsegueix usabilitat i productivitat funcions a l'igual que els proveïdors de núvols públics, però mantens el control de la preciosa companyia dades.
+- d) Passa a qüasi tots els països.
 - e) Llicència comercial per als mòduls principal y Enterprise.
-- h) No conté la Llicència comercial per als mòduls principal y Enterprise.
+- h) AGPLv3
+- i) Sí, des de 2012 es poden veure.
 - j) Sí.
+- k) Sí, poden connectar-se.
 - l) Sí, es diu ClamAV.
 ### ***3.4.-*** Mostra els següents canvis de paràmetres d'usuari:
 
